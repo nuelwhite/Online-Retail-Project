@@ -1,2 +1,2 @@
-# DA_w-_Alex
-# This repository contains files from the Data Analysis with Alex Freberg Bootcamp on Youtube. Check it out using this link https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
+# Online Retail Data Analysis
+Hello :wave:. Welcome to this repo. This project involves analyzing an online retail dataset to uncover insights about customer behavior, sales performance, and product trends. The analysis aims to identify key patterns, such as top-selling products, customer segmentation, and seasonal purchasing trends, while providing actionable recommendations to optimize retail strategies. Advanced data visualization techniques and statistical methods will be employed to present findings effectively.
